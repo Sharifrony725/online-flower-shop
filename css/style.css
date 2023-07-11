@@ -105,17 +105,23 @@ margin: 0px auto;
 width: 594px;
 }
 .insta-img{
+  width: 100%;
   display: flex;
-  padding: 0 150px;
+  /* padding: 0 150px; */
+  padding: 0 110px;
 }
 .insta-img img{
-  margin-top: 20px;
+ margin-top: 20px;
  margin-right: 20px;
 }
+/* #insta-img-first{
+  margin-right: 20px;
+} */
 .insta-banner{
+  width: 100%;
   margin-top: 100px;
   border-radius: 8px;
-  padding: 0 140px;
+  padding: 0 110px;
 }
 .insta-banner img{
   position: relative;
@@ -123,7 +129,7 @@ width: 594px;
 .insta-banner-deals{
   position: relative;
   bottom: 350px;
-  right: 50px;
+  right: 200px;
 }
 .insta-banner-content{
   position: relative;
