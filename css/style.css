@@ -120,10 +120,33 @@ width: 594px;
 .insta-banner img{
   position: relative;
 }
+.insta-banner-deals{
+  position: relative;
+  bottom: 350px;
+  right: 50px;
+}
 .insta-banner-content{
   position: relative;
-  bottom: 200px;
+  bottom: 350px;
   left: 250px;
+}
+.insta-banner-deals h3{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 0px;
+
+}
+.insta-banner-deals h6{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-top: 10px;
+line-height: 30px;
 }
 .insta-banner-content input{
   border-radius: 8px;
