@@ -46,7 +46,7 @@ body {
 /* hot deal section */
 .hot-deal{
   display: flex;
-  padding: 100px;
+  padding: 50px;
   text-align: center;
   border-radius: 8px;
   background: rgba(229, 84, 115, 0.05);
@@ -83,8 +83,8 @@ padding-left: 100px;
 /* Instagram section styles */
 .instagram{
   background: #FFF;
-  /* width: 1920px; */
-  /* height: 4867px; */
+  width: 100%;
+  margin-bottom: 0px;
 }
 
 .insta-title{
@@ -159,18 +159,16 @@ line-height: 30px;
 
 /* footer section styles */
 .footer{
-  margin-top: 50px;
   padding: 100px;
   background: #111010;
   text-align: center;
+  margin-top: -130px;
 }
 .flower{
   color: #E55473;
-  /* padding: 130px; */
-  
 }
 .footer h3{
-  color: #FFF;
+color: #FFF;
 font-size: 48px;
 font-style: normal;
 font-weight: 800;
