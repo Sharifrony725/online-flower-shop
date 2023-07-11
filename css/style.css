@@ -15,8 +15,8 @@ body {
   border-radius: 8px;
   background: #E55473;
   color: #ffffff;
-  font-weight: 700;
-  font-size: 24px;
+  font-weight: 500;
+  font-size: 20px;
   padding: 15px 35px;
   border: 0px;
 }
@@ -59,8 +59,8 @@ body {
 }
 .hot-deal-title{
 color: #272727;
-font-size: 40px;
-font-weight: 800;
+font-size: 25px;
+font-weight: 700;
 }
 .hot-deal-des{
 color: rgba(39, 39, 39, 0.60);
